@@ -1,16 +1,17 @@
 {
   "projectType": "general",
-  "projectName": "Streaming Help Center",
-  "projectDescription": "An independent help guide that walks users through signing in to streaming services on their TV using a device activation code.",
+  "projectName": "netflix.com/tv2 – Netflix TV Activation Help Center",
+  "projectDescription": "An independent help guide focused on activating Netflix on TVs using netflix.com/tv2 — step-by-step activation code sign-in for Smart TVs, streaming sticks, and game consoles.",
   "theme": "almond",
-  "primaryColor": "#2563eb",
-  "lightColor": "#3b82f6",
-  "darkColor": "#1d4ed8",
+  "primaryColor": "#E50914",
+  "lightColor": "#F40612",
+  "darkColor": "#B0060F",
   "navigation": {
     "groups": [
       {
         "group": "Get Started",
         "pages": [
+          "index",
           "introduction",
           "how-it-works"
         ]
@@ -41,11 +42,13 @@
     ]
   },
   "keyFeatures": [
-    "Step-by-step TV activation code sign-in walkthrough",
-    "Device-specific guides for Smart TVs, streaming sticks, and game consoles",
-    "Common error troubleshooting (expired codes, connectivity issues)",
-    "FAQ covering account requirements and the activation process",
-    "Independent, unaffiliated resource covering general streaming sign-in flows"
+    "Complete netflix.com/tv2 activation walkthrough for Netflix on any TV",
+    "Netflix activation code guides for Samsung, LG, Sony, and Vizio Smart TVs",
+    "netflix.com/tv2 sign-in help for Roku, Fire TV, Apple TV, and Chromecast",
+    "Netflix activation on PlayStation and Xbox game consoles",
+    "Troubleshooting for Netflix activation code errors, Wi-Fi issues, and app problems",
+    "FAQ covering Netflix accounts, passwords, device limits, and shared plans",
+    "Independent, unaffiliated help resource for netflix.com/tv2"
   ],
   "publicApiSurface": []
 }
