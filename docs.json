@@ -14,7 +14,7 @@
         "group": "Get Started",
         "pages": [
           "index",
-          "introduction",
+          "netflixtvcode",
           "how-it-works"
         ]
       },
@@ -75,5 +75,12 @@
     "fonts": {
       "family": "Poppins"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/introduction",
+      "destination": "/netflixtvcode",
+      "permanent": true
+    }
+  ]
 }
