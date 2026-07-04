@@ -13,6 +13,7 @@
       {
         "group": "Get Started",
         "pages": [
+          "index",
           "introduction",
           "how-it-works"
         ]
@@ -45,8 +46,8 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Get Help",
-      "href": "https://help.netflix.com"
+      "label": "Sign-In Guide",
+      "href": "/introduction"
     }
   },
   "logo": {
