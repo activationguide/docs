@@ -1,0 +1,51 @@
+{
+  "projectType": "general",
+  "projectName": "Streaming Help Center",
+  "projectDescription": "An independent help guide that walks users through signing in to streaming services on their TV using a device activation code.",
+  "theme": "almond",
+  "primaryColor": "#2563eb",
+  "lightColor": "#3b82f6",
+  "darkColor": "#1d4ed8",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "how-it-works"
+        ]
+      },
+      {
+        "group": "Sign-In Guides",
+        "pages": [
+          "guides/smart-tv",
+          "guides/streaming-stick",
+          "guides/game-console"
+        ]
+      },
+      {
+        "group": "Troubleshooting",
+        "pages": [
+          "troubleshooting/code-not-working",
+          "troubleshooting/connection-issues",
+          "troubleshooting/app-issues"
+        ]
+      },
+      {
+        "group": "FAQ",
+        "pages": [
+          "faq/general",
+          "faq/account"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Step-by-step TV activation code sign-in walkthrough",
+    "Device-specific guides for Smart TVs, streaming sticks, and game consoles",
+    "Common error troubleshooting (expired codes, connectivity issues)",
+    "FAQ covering account requirements and the activation process",
+    "Independent, unaffiliated resource covering general streaming sign-in flows"
+  ],
+  "publicApiSurface": []
+}
