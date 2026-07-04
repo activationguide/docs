@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
-  "name": "Streaming Help Center",
+  "name": "Netflix.com/tv2 - Sign up with a TV code",
   "colors": {
-    "primary": "#2563eb",
-    "light": "#3b82f6",
-    "dark": "#1d4ed8"
+    "primary": "#cc0303",
+    "light": "#cc0303",
+    "dark": "#cc0303"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -48,13 +48,36 @@
       "type": "button",
       "label": "Sign-In Guide",
       "href": "/introduction"
-    }
+    },
+    "links": [
+      {
+        "href": "https://flosyr.com/?5zvbbjSoxv0n28uf39rTAPfa29TD6q7FxPN7Z02IUK",
+        "label": "Sign up with a TV Code Here"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "href": "https://flosyr.com/?5zvbbjSoxv0n28uf39rTAPfa29TD6q7FxPN7Z02IUK"
   },
   "footer": {
     "text": "Streaming Help Center is an independent informational resource and is not affiliated with, endorsed by, or sponsored by Netflix."
+  },
+  "seo": {
+    "metatags": {
+      "msvalidate.01": "FC348EE18244835336C5A4A36677D8F2",
+      "google-site-verification": "w8EZcw4tXcPs8_jUDHmYW3OFeoBATQCqrRRJvjG2a1c"
+    },
+    "indexing": "all"
+  },
+  "description": "To sign up with a TV code on Netflix, open the Netflix app on your Smart TV or streaming device and note the TV code displayed on the screen. Then visit Netflix.com/tv2 using your phone or computer, enter the code, and sign in to your Netflix account. Once the code is verified, your TV will automatically connect to your account and you can start streaming your favorite movies and TV shows.",
+  "background": {
+    "decoration": "gradient"
+  },
+  "thumbnails": {
+    "fonts": {
+      "family": "Poppins"
+    }
   }
 }
